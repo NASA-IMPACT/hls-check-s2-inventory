@@ -1,0 +1,8 @@
+{
+        "tile_list_url": "https://raw.githubusercontent.com/NASA-IMPACT/hls-land_tiles/master/HLS.land.tiles.txt",
+        "satellites": ["S2A", "S2B"],
+        "start_date": "2022-10-01",
+        "end_date": "2022-11-30",
+        "copernicus_url": "https://scihub.copernicus.eu/catalogueview",
+        "archive_bucket": "s2-archive"
+}
